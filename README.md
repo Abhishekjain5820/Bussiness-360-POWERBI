@@ -125,27 +125,27 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Finance View
 
-![Finace.gif](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Resources/Finance%20view.gif)
+![Finace.gif](https://github.com/Abhishekjain5820/Bussiness-360-POWERBI/blob/main/Finance%20view.gif)
 
 ## Sales View
 
-![Sales.gif](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Resources/Sales%20View.gif)
+![Sales.gif](https://github.com/Abhishekjain5820/Bussiness-360-POWERBI/blob/main/Sales%20View.gif)
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Resources/Marketing%20view.gif)
+![Marketing.gif](https://github.com/Abhishekjain5820/Bussiness-360-POWERBI/blob/main/Marketing%20view.gif)
 
 ## Supply chain View
 
-![Supply chain View.gif](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Resources/Supply%20chain%20View.gif)
+![Supply chain View.gif](https://github.com/Abhishekjain5820/Bussiness-360-POWERBI/blob/main/Supply%20chain%20View.gif)
 
 ## Executive View
 
-![Executive.gif](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Resources/Executive%20view.gif)
+![Executive.gif](https://github.com/Abhishekjain5820/Bussiness-360-POWERBI/blob/main/Executive%20view.gif)
 
 ## Stakeholder Request
 
-![Stakeholder Request](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Resources/Stakeholder%20Request.gif)
+![Stakeholder Request](https://github.com/Abhishekjain5820/Bussiness-360-POWERBI/blob/main/Resources/Stakeholder%20Request.gif)
 
 
 
